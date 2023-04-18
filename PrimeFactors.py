@@ -7,6 +7,7 @@
 # @notes: has two functions:
 #   - non recursive "is_prime" function
 #   - recursive "prime_factorization" function
+import sys
 
 def prime_factorization(n):
     UniquePrimeFactorsOfN = []
@@ -40,3 +41,8 @@ def is_prime(n):
                 break
             pass
     return prime
+
+if __name__ == "__main__":
+   cli_input = int(sys.argv[1])
+   prime_factors = prime_factorization(cli_input)
+   print("Prime factors of",cli_input,"are:",prime_factors)
