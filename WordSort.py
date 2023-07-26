@@ -13,8 +13,8 @@ def sort_words(input_data):
 if __name__ == "__main__":
     string_input = sys.argv[1:] # skips filename input
     if (len(string_input)>0):
-        print(string_input)
+        print("Initial String: ", string_input)
         output_data = sort_words(string_input)
-        print(output_data)
+        print("Sorted String: ", output_data)
     else:
         print("Please enter a valid string.")

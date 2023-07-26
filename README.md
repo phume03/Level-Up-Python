@@ -6,9 +6,13 @@ This is the repository for the [LinkedIn Learning](https://www.linkedin.com/lear
 
 2. Palindrome: determine if a given string/phrase/sentence is a palindrome
 
-3. Sort String: alphabetically sort the words in a given phrase/sentence
+3. Sort String: alphabetically sort the words in a given phrase/sentence (ignoring case)
 
-4. Find All List Items
+4. String Punctuation: defines functions that take in an input string and return true if the string contains a punctuation, and false if it doesn't.
+
+5. Running Averages: defines functions that take in an (x,y) data set and produce an (x,y,y1) tuple, where y1 is the running average of y.
+
+4. Find All List Items: find all the indices (indexes) of a given word in a list. Include nested references to the word in the sublists of the initial list.
 
 5. Play the Waiting Game
 
