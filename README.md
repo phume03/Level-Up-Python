@@ -10,13 +10,9 @@ A part of this repository contains my solutions to the challenges presented in t
 
 3. Sort String: alphabetically sort the words in a given phrase/sentence (ignoring case)
 
-4. String Punctuation: defines functions that take in an input string and return true if the string contains a punctuation, and false if it doesn't.
+4. Find All List Items: find all the indices (indexes) of a given word/item in a list. Include nested references to the word in the sublists of the initial list
 
-5. Running Averages: defines functions that take in an (x,y) data set and produce an (x,y,y1) tuple, where y1 is the running average of y.
-
-4. Find All List Items: find all the indices (indexes) of a given word in a list. Include nested references to the word in the sublists of the initial list.
-
-5. Play the Waiting Game
+5. Play the Waiting Game: use python time to determine if a user playing a game follows a simple instruction or game prompt to wait a random number of seconds between two to four seconds.
 
 6. Save a Dictionary
 
@@ -56,6 +52,13 @@ The other part contains solutions to a collection of puzzles curated by [MatWhit
 ### Fun Puzzles ###
 
 
+
+
+## Others ##
+
+1. String Punctuation: defines functions that take in an input string and return true if the string contains a punctuation, and false if it doesn't.
+
+2. Running Averages: defines functions that take in an (x,y) data set and produce an (x,y,y1) tuple, where y1 is the running average of y.
 
 
 ## Requirements ##

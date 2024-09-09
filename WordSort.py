@@ -4,7 +4,7 @@
 # @date: 18/April/2023
 # @description: 
 # @python version: Python 3
-# @notes:
+# @notes: the string input need not be encapsulated in quotation marks, the program automatically converts it to a list.
 import sys
 
 def sort_words(input_data):
