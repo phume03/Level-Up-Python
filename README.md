@@ -14,9 +14,9 @@ A part of this repository contains my solutions to the challenges presented in t
 
 5. Play the Waiting Game: use python time to determine if a user playing a game follows a simple instruction or game prompt to wait a random number of seconds between two to four seconds.
 
-6. Save a Dictionary
+6. Save a Dictionary: save a dictionary to disk and load the dictionary from disk.
 
-7. Schedule a Function
+7. Schedule a Function: 
 
 8. Send an Email
 
